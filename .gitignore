@@ -40,3 +40,6 @@ validation-report.json
 # Folders to ignore
 node_modules
 bower_components
+
+# Deployment config to ignore
+s3_website.yml
